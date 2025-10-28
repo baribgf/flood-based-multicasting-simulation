@@ -12,4 +12,4 @@ uv run src/main.py
 
 - Emphasize “real” parallelism for running nodes.
 - Support a simple way to define graph structure.
-- Support “random graphs” (i.e graphs that have a probability whether node `A` is connected to node `B`).
+- Support “random graphs” (i.e graphs with probability for nodes `A` and `B` to be connected).
