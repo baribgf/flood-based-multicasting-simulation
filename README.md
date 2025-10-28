@@ -8,7 +8,7 @@ This is an illustrative simulation of the flood-based multicasting technique. A 
 uv run src/main.py
 ```
 
-## TODO
+## Todo
 
 - Emphasize “real” parallelism for running nodes.
 - Support a simple way to define graph structure.
